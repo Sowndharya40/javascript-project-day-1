@@ -1,0 +1,1 @@
+# javascript-project-day-1
